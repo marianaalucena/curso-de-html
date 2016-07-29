@@ -1,0 +1,42 @@
+		.header-footer {	
+			text-align: center; 
+			background-color: #757575;
+			padding: 30px;
+			font-family: 'Poiret One', cursive;
+
+		}
+
+		section > div{
+			background-color: #BDBDBD;
+			margin: 30px;
+			padding: 30px;
+			border-radius: 30px;
+			text-align: center; 
+			font-family: 'Poiret One', cursive;
+		}
+
+		ol{
+			width: 10px;
+			margin: auto;
+		}
+
+		ul{
+			width: 10px;
+			margin: auto;
+		}
+
+		header > img {
+			border-radius: 50%;
+
+		}
+
+		header{
+			color: #ccc;
+		}
+
+		body {
+			margin: 0px;
+			background-color: #EEEEEE;
+		}
+
+
